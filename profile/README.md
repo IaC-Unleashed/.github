@@ -13,3 +13,12 @@ My passion for Infrastructure as Code technologies is like a symphony of efficie
 ## What We Do Here ##
 
 At our educational hub, I've carefully curated a learning experience that revolves around two powerful pillars of infrastructure management: Terraform and Ansible. I've chosen to focus on these technologies because of their versatility and widespread adoption in the industry. Terraform's declarative approach to infrastructure as code and Ansible's agentless automation capabilities provide a comprehensive toolkit for students eager to master the art of efficient infrastructure management. To enhance the practicality of these teachings, I use DigitalOcean, a cloud platform renowned for its user-friendly interface and developer-friendly solutions. By integrating DigitalOcean into the curriculum, I ensure that students not only grasp the theoretical aspects but also gain hands-on experience, deploying and managing resources in a real-world cloud environment. It's a holistic learning journey where the synergy of Terraform, Ansible, and DigitalOcean creates a dynamic and rewarding educational experience.
+
+## Learning Paths ##
+
+Follow the modules as listed below for complete learning paths:
+
+### Getting Started ###
+
+1. [Intro-to-DigitalOcean](https://github.com/IaC-Unleashed/Intro-to-DigitalOcean)
+2. [Intro-to-Ansible](https://github.com/IaC-Unleashed/Intro-to-Ansible)

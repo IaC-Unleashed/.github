@@ -20,5 +20,5 @@ Follow the modules as listed below for complete learning paths:
 
 ### Getting Started ###
 
-1. [Intro to DigitalOcean and Terraform](https://github.com/IaC-Unleashed/Intro-to-DigitalOcean)
+1. [Intro to DigitalOcean and Terraform](https://github.com/IaC-Unleashed/Intro-to-DigitalOcean-and-Terraform)
 2. [Intro to Ansible](https://github.com/IaC-Unleashed/Intro-to-Ansible)
